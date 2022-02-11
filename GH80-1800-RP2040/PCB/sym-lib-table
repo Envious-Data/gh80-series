@@ -1,7 +1,5 @@
 (sym_lib_table
   (lib (name "MCU_RaspberryPi_and_Boards")(type "Legacy")(uri "${KIPRJMOD}/Resources/MCU_RaspberryPi_and_Boards.pretty/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
-  (lib (name "logo")(type "Legacy")(uri "C:/Users/Envy/Documents/GitHub/EnvOpenPico/EnvOpenPico/logo.lib")(options "")(descr ""))
-  (lib (name "W25Q256JVEIQ_TR")(type "Legacy")(uri "C:/Users/Envy/Documents/GitHub/EnvOpenPico/EnvOpenPico/W25Q256JVEIQ_TR.lib")(options "")(descr ""))
-  (lib (name "Type-C")(type "Legacy")(uri "C:/Users/Envy/Documents/GitHub/EnvOpenPico/EnvOpenPico/Type-C.lib")(options "")(descr ""))
-  (lib (name "MCU_RaspberryPi_RP2040")(type "Legacy")(uri "C:/Users/Envy/Documents/GitHub/EnvOpenPico/EnvOpenPico/MCU_RaspberryPi_RP2040.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/Resources/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_RP2040")(type "Legacy")(uri "${KIPRJMOD}/Resources/MCU_RaspberryPi_and_Boards.pretty/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
 )
