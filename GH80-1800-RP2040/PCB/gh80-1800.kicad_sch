@@ -11960,328 +11960,328 @@
       (reference "CBP1") (unit 1) (value "10uf 0402") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005b0e31dd"
-      (reference "D1") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D1") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd2d462"
-      (reference "D2") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D2") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd32175"
-      (reference "D3") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D3") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd36ffa"
-      (reference "D4") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D4") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd3c0ef"
-      (reference "D5") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D5") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd41422"
-      (reference "D6") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D6") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd467fd"
-      (reference "D7") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D7") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd4be12"
-      (reference "D8") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D8") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd5150b"
-      (reference "D9") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D9") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd56f56"
-      (reference "D10") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D10") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd5c979"
-      (reference "D11") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D11") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd62df3"
-      (reference "D12") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D12") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd62e04"
-      (reference "D13") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D13") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd62e14"
-      (reference "D14") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D14") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd62e24"
-      (reference "D15") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D15") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd62e34"
-      (reference "D16") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D16") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd62e44"
-      (reference "D17") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D17") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd62e54"
-      (reference "D18") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D18") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd62e64"
-      (reference "D19") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D19") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd62e74"
-      (reference "D20") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D20") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd62e84"
-      (reference "D21") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D21") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd62e94"
-      (reference "D22") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D22") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd6aa12"
-      (reference "D23") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D23") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd6aa23"
-      (reference "D24") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D24") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd6aa33"
-      (reference "D25") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D25") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd6aa43"
-      (reference "D26") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D26") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd6aa53"
-      (reference "D27") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D27") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd6aa63"
-      (reference "D28") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D28") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd6aa73"
-      (reference "D29") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D29") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd6aa83"
-      (reference "D30") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D30") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd6aa93"
-      (reference "D31") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D31") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd6aaa3"
-      (reference "D32") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D32") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd6aab3"
-      (reference "D33") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D33") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd74340"
-      (reference "D34") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D34") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd74351"
-      (reference "D35") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D35") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd74361"
-      (reference "D36") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D36") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd74371"
-      (reference "D37") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D37") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd74381"
-      (reference "D38") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D38") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd74391"
-      (reference "D39") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D39") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd743a1"
-      (reference "D40") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D40") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd743b1"
-      (reference "D41") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D41") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd743c1"
-      (reference "D42") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D42") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd743d1"
-      (reference "D43") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D43") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bd743e1"
-      (reference "D44") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D44") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bda3a81"
-      (reference "D45") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D45") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bda3a92"
-      (reference "D46") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D46") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bda3aa2"
-      (reference "D47") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D47") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bda3ab2"
-      (reference "D48") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D48") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bda3ac2"
-      (reference "D49") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D49") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bda3ad2"
-      (reference "D50") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D50") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bda3ae2"
-      (reference "D51") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D51") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bda3af2"
-      (reference "D52") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D52") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bda3b02"
-      (reference "D53") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D53") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bda3b12"
-      (reference "D54") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D54") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bda3b22"
-      (reference "D55") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D55") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdb2517"
-      (reference "D56") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D56") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdb2528"
-      (reference "D57") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D57") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdb2538"
-      (reference "D58") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D58") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdb2548"
-      (reference "D59") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D59") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdb2558"
-      (reference "D60") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D60") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdb2568"
-      (reference "D61") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D61") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdb2578"
-      (reference "D62") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D62") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdb2588"
-      (reference "D63") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D63") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdb2598"
-      (reference "D64") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D64") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdb25a8"
-      (reference "D65") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D65") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdb25b8"
-      (reference "D66") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D66") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdc373e"
-      (reference "D67") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D67") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdc374f"
-      (reference "D68") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D68") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdc375f"
-      (reference "D69") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D69") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdc376f"
-      (reference "D70") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D70") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdc377f"
-      (reference "D71") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D71") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdc378f"
-      (reference "D72") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D72") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdc379f"
-      (reference "D73") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D73") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdc37bf"
-      (reference "D75") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D75") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdc37cf"
-      (reference "D76") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D76") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdc37df"
-      (reference "D77") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D77") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdd7ba0"
-      (reference "D78") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D78") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdd7bb1"
-      (reference "D79") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D79") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdd7bc1"
-      (reference "D80") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D80") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdd7bd1"
-      (reference "D81") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D81") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdd7be1"
-      (reference "D82") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D82") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdd7bf1"
-      (reference "D83") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D83") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdd7c01"
-      (reference "D84") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D84") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdd7c11"
-      (reference "D85") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D85") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdd7c21"
-      (reference "D86") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D86") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdd7c31"
-      (reference "D87") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D87") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdd7c41"
-      (reference "D88") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D88") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdefabf"
-      (reference "D89") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D89") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdefad0"
-      (reference "D90") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D90") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdefae0"
-      (reference "D91") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D91") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdefaf0"
-      (reference "D92") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D92") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdefb00"
-      (reference "D93") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D93") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdefb10"
-      (reference "D94") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D94") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdefb20"
-      (reference "D95") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D95") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdefb30"
-      (reference "D96") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D96") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdefb40"
-      (reference "D97") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D97") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdefb50"
-      (reference "D98") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D98") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005bdefb60"
-      (reference "D99") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D99") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005be0acd1"
-      (reference "D100") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D100") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005be0ace2"
-      (reference "D101") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D101") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005be0acf2"
-      (reference "D102") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D102") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005be0ad02"
-      (reference "D103") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D103") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005be0ad12"
-      (reference "D104") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D104") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005be0ad22"
-      (reference "D105") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D105") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005be0ad52"
-      (reference "D107") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D107") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005be0ad42"
-      (reference "D108") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D108") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005be0ad62"
-      (reference "D109") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D109") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-00005be0ad72"
-      (reference "D110") (unit 1) (value "D") (footprint "Keeb_components:hybrid_DIODE_sans")
+      (reference "D110") (unit 1) (value "1N4148") (footprint "Keeb_components:hybrid_DIODE_sans")
     )
     (path "/00000000-0000-0000-0000-000061068f6f"
       (reference "DI1") (unit 1) (value "1N4002W") (footprint "Diode_SMD:D_SOD-123")
